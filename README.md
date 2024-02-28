@@ -70,13 +70,6 @@ er_analysis_and_visualization/assets/98160008/cb64c04f-eb9f-4c44-8c46-3b03d71e25
 ![Black Yellow Bold Ripped Running Tips Youtube Thumbnail  (3)_page-0035](https://github.com/rajesh9943/Fitbit_Tracker_analysis_and_visualization/assets/98160008/44f398ff-b968-44a3-9650-68c37edc1f37)
 ![Black Yellow Bold Ripped Running Tips Youtube Thumbnail  (3)_page-0036](https://github.com/rajesh9943/Fitbit_Tracker_analysis_and_visualization/assets/98160008/a99b8a5b-bf87-45d4-93f5-d50d519d0d9a)
 ![Black Yellow Bold Ripped Running Tips Youtube Thumbnail  (3)_page-0037](https://github.com/rajesh9943/Fitbit_Tracker_analysis_and_visualization/assets/98160008/74d55173-52e2-4215-aebd-e47a28bf421d)
-![Black Yellow Bold Ripped Running Tips Youtube Thumbnail  (3)_page-0038](https://github.com/rajesh9943/Fitbit_Tracker_analysis_and_visualization/assets/98160008/9bc3abe7-a4fd-49a8-ab1e-bab4c997a965)
-![Black Yellow Bold Ripped Running Tips Youtube Thumbnail  (3)_page-0039](https://github.com/rajesh9943/Fitbit_Tracker_analysis_and_visualization/assets/98160008/37f538bc-c344-4b8d-a25f-0aaa8467db21)
-![Black Yellow Bold Ripped Running Tips Youtube Thumbnail  (3)_page-0040](https://github.com/rajesh9943/Fitbit_Tracker_analysis_and_visualization/assets/98160008/b697d0e0-2adc-4d0a-bed4-31e7eee0d2c8)
-![Black Yellow Bold Ripped Running Tips Youtube Thumbnail  (3)_page-0041](https://github.com/rajesh9943/Fitbit_Tracker_analysis_and_visualization/assets/98160008/4fd355bc-e33e-498c-9c39-c6603318aa4d)
-![Black Yellow Bold Ripped Running Tips Youtube Thumbnail  (3)_page-0042](https://github.com/rajesh9943/Fitbit_Tracker_analysis_and_visualization/assets/98160008/9a6b3429-38b9-4990-ad05-d6e297704737)
-
-
 
 
 
