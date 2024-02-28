@@ -1,4 +1,4 @@
-# Fitbit_Tracker_analysis_and_visualization
+# Fitbit Tracker Analysis and Visualization
 
 # Content
 
