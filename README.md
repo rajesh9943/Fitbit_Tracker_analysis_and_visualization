@@ -1,4 +1,4 @@
-# Fitbit Tracker Analysis and Visualization
+# Uncover The Fitbit Tracker Analysis and Visualizations and Exopse the Trends
 
 <h3>Content:</h3>
 
