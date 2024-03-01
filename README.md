@@ -1,20 +1,12 @@
 # Fitbit Tracker Analysis and Visualization
 
-# Content
+<h3>Content:</h3>
 
 Respondents generated this dataset to a distributed survey via Amazon Mechanical Turk between 03.12.2016 and 05.12.2016. Thirty eligible Fitbit users consented to submit personal tracker data, including minute-level output for physical activity, heart rate, and sleep monitoring. Individual reports can be parsed by export session ID (column A) or timestamp (column B). Variation between output represents the use of different Fitbit trackers and individual tracking behaviors/preferences. 
 This dataset contains 18 different files like dailyActivity, dailyCalories, hourlySteps, etc…
 
-# Business Task:
-Analyze FitBit Fitness Tracker App data to gain insights into how consumers are using the FitBit app and discover trends and insights for the marketing team.
-Business Objectives:<br>
-●	What are the trends identified?<br>
-●	How could these trends apply to customers?<br>
-●	How could these trends help influence marketing strategy?<be>
-
-# Tools:
-Python for Data Cleaning, Data Transformation, Data Visualisation and Data Analysis,
-Pandas Profiling, 
+<h3>Tools and Technology that I Used:</h3>
+Python, Pandas Pro-filling, Numpy, Matplotlib, Seaborn, Plotly, Sklearn, Exploratory Data Analysis
 
 
 # Deliverables:
@@ -24,6 +16,108 @@ Pandas Profiling,
 4.	A summary of the analysis
 5.	Supporting visualizations and key findings
 6.	High-level content recommendations based on the analysis
+
+# Business Task:
+Analyze FitBit Fitness Tracker App data to gain insights into how consumers are using the FitBit app and discover trends and insights for the marketing team.
+Business Objectives:<br>
+1. What are the trends identified?<br>
+2. How could these trends apply to customers?<br>
+3. How could these trends help influence marketing strategy?<br>
+
+# 1. What are the trends identified?<br>
+
+<h3>Physical Activity Patterns:<be></h3>
+
+The dataset includes information about daily and hourly physical activity, including steps, calories burned, and intensity levels.
+By analyzing these patterns, you can identify individuals with consistent or irregular activity levels.
+
+<h3>Sleep Patterns:<br></h3>
+
+Sleep data is available, providing insights into total sleep records, total minutes asleep, and total time in bed.
+Patterns in sleep duration and quality can be identified, helping to understand individuals' sleep habits.
+
+<h3>Weight and Body Metrics:<br></h3>
+
+The dataset includes information on weight, BMI, and fat percentage.
+Trends in weight change, BMI variation, and fat percentage can be analyzed over time for each individual.
+
+<h3>Heart Rate Analysis:<be></h3>
+
+Heart rate data is available at a fine-grained level, capturing values at specific times.
+Patterns in heart rate during different activities or times of the day can be explored.
+# 2. How could these trends apply to customers?
+<h3>Personalized Health Insights:</h3>
+
+Customers can receive personalized insights into their physical activity, sleep, and weight trends.
+This information can help individuals understand their habits, set health goals, and make informed decisions about their lifestyle.
+<h3>Wellness Recommendations:</h3>
+
+Based on identified trends, customers can receive recommendations for improving their overall well-being.
+For example, if irregular sleep patterns are identified, suggestions for better sleep hygiene can be provided.
+<h3>Targeted Fitness Plans:</h3>
+
+Fitness plans can be tailored to individual preferences and patterns.
+Customers with specific activity preferences or challenges can receive targeted recommendations for exercise routines.
+# 3. How could these trends help influence marketing strategy?
+<h3>Segmented Marketing:<br></h3>
+
+Identify customer segments based on activity levels, sleep patterns, and weight metrics.
+Tailor marketing campaigns to address the unique needs and interests of each segment.
+<h3>Promotions for Health Products:<br></h3>
+
+Launch promotions for health and fitness products based on identified trends.
+For instance, market sleep-related products if irregular sleep patterns are prevalent among the target audience.
+<h3>Health and Wellness Programs:<br></h3>
+
+Develop marketing strategies around comprehensive health and wellness programs.
+Highlight how products or services contribute to improved physical activity, better sleep, and overall well-being.
+<h3>Customized Fitness Apps:<br></h3>
+
+If irregular activity patterns are identified, marketing efforts can focus on promoting fitness apps or solutions that provide personalized workout plans.
+<h3>Engagement and Rewards:<br></h3>
+
+Create engagement strategies that reward customers for achieving specific health goals.
+Loyalty programs can be designed to encourage continued use of health and fitness-related products or services.
+In summary, understanding trends in physical activity, sleep, weight, and heart rate can provide valuable insights for creating personalized customer experiences and targeted marketing strategies in the health and wellness industry.
+
+# Deliverables:
+<h3>1. Clear Summary of the Business Task:</h3>
+
+Clearly articulate the primary business task or problem you are addressing. For example:
+
+The business task is to analyze health and fitness data to derive actionable insights that can be used to improve customer experience, tailor marketing strategies, and enhance product offerings in the health and wellness industry.
+<h3>2. Description of Data Sources:</h3>
+
+Provide information about the data sources you utilized. This might include:
+
+The dataset contains records of physical activity, sleep patterns, weight metrics, and heart rate collected from wearable devices and mobile apps.
+Data sources may include APIs, databases, or third-party platforms.
+<h3>3. Documentation of Data Cleaning/Manipulation:</h3>
+
+Detail the steps taken to clean and manipulate the data. This could involve:
+
+Handling missing values: Explain how missing values were treated (removed, imputed, etc.).
+Standardizing units or formats: Detail any efforts to ensure consistency in the dataset.
+Removing outliers: Mention if outliers were identified and addressed.
+<h3>4. Summary of the Analysis:</h3>
+
+Provide a concise overview of the analysis conducted. For instance:
+
+The analysis focused on identifying trends in physical activity, sleep, weight, and heart rate.
+Key metrics such as average steps per day, sleep duration, and heart rate patterns were examined.
+<h3>5. Supporting Visualizations and Key Findings:</h3>
+
+Include relevant visualizations (charts, graphs, etc.) and highlight key findings:
+
+Visualizations might include time series plots of physical activity, histograms of sleep duration, or pie charts representing activity types.
+Key findings could include insights into common sleep patterns, peak activity times, or correlations between activity levels and heart rate.
+<h3>6. High-level Content Recommendations:</h3>
+
+Based on your analysis, provide high-level recommendations for the business:
+
+Personalized Health Insights: Develop features or products that provide personalized health insights to customers.
+Targeted Marketing: Tailor marketing strategies based on identified customer segments.
+Wellness Programs: Consider launching wellness programs aligned with customer needs.
 
 ![Black Yellow Bold Ripped Running Tips Youtube Thumbnail  (3)_page-0001](https://github.com/rajesh9943/Fitbit_Tracker_analysis_and_visualization/assets/98160008/77c9fddd-3199-4b10-b65f-46845248e1a8)
 ![Black Yellow Bold Ripped Running Tips Youtube Thumbnail  (3)_page-0002](https://github.com/rajesh9943/Fitbit_Tracker_analysis_and_visualization/assets/98160008/a2a76290-d5dc-4dc7-882f-d0f23851de40)
